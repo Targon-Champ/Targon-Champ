@@ -92,7 +92,7 @@ My journey began with backend systems at Deloitte, but now I'm fully immersed in
 ### 🎹 Keylogger with PDF Encryption  
 > Built a keylogger with secure PDF logging, email automation, and usage reporting (Python, Tkinter, Pynput).-->
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 
@@ -102,7 +102,7 @@ My journey began with backend systems at Deloitte, but now I'm fully immersed in
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Targon-Champ&theme=tokyonight" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Targon-Champ&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
